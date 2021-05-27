@@ -74,7 +74,7 @@ int village(int a)
     }
 
 }
-
+/* this function need to be edited */
 int order(int a)
 {
     struct student b[100];
